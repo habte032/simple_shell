@@ -17,4 +17,4 @@ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o simple_shellTo run the Sim
 - env: Prints the current environment.
 
 ## Authors
-- [Author Name](https://github.com/habte032)
+- [Habtemariam](https://github.com/habte032)
